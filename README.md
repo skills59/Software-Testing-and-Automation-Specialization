@@ -4,9 +4,9 @@
 Solutions to my practical assignments from the course Software Testing and Automation Specialization offered by the University of Minnesota. all of my assignment submissions. 
 
 # Specialization - 4 course series
--Introduction to Software Testing
--Black-box and White-box Testing
--Introduction to Automated Analysis
--Web and Mobile Testing with Selenium
+### Introduction to Software Testing
+### Black-box and White-box Testing
+### Introduction to Automated Analysis
+### Web and Mobile Testing with Selenium
 
 Course Link: https://online.umn.edu/software-testing-and-automation
