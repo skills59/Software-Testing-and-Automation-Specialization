@@ -8,5 +8,5 @@ Solutions to my practical assignments from the course Software Testing and Autom
 ### Black-box and White-box Testing
 ### Introduction to Automated Analysis
 ### Web and Mobile Testing with Selenium
-
+#
 Course Link: https://online.umn.edu/software-testing-and-automation
